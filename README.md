@@ -41,9 +41,3 @@ Este projeto foi desenvolvido com o objetivo de:
 
 
 ---
-
-## 🚀 Como Executar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
